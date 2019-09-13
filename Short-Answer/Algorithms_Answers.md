@@ -2,13 +2,13 @@
 
 ## Exercise I
 
-a)
+a) Time - O(n) Space - O(2)
 
 
-b)
+b) Time - O(n^2) Space - O(3)
 
 
-c)
+c) Time - O(n)
 
 ## Exercise II
 
